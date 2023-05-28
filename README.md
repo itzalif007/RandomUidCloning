@@ -8,6 +8,8 @@ cd RandomUidCloning
 ```
 #### RUN SCRIPT
 ```python
+
+git pull
 python Random.py
 
 ```
