@@ -12,9 +12,9 @@ cd RandomUidCloning
 ```python
 
 git pull 
-Random-v21.py
+python Random.py
 ______________
 
-python Random.py
+python Random-v21.py
 
 ```
