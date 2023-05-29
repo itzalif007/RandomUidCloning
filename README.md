@@ -9,12 +9,12 @@ cd RandomUidCloning
 
 ```
 #### RUN SCRIPT
-```python
+```
 
 git pull 
 python Random.py
 
-```python
+```pytho
 python Random-v21.py
 
 ```
