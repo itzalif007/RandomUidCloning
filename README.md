@@ -11,7 +11,10 @@ cd RandomUidCloning
 #### RUN SCRIPT
 ```python
 
-git pull
+git pull 
+Random-v21.py
+______________
+
 python Random.py
 
 ```
