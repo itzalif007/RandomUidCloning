@@ -6,7 +6,7 @@
 ```python
 git clone https://github.com/itzalif007/RandomUidCloning 
 cd RandomUidCloning 
-
+git pull
 ```
 #### RUN SCRIPT
 ```
